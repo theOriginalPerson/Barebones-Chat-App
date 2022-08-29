@@ -1,0 +1,45 @@
+body {
+	margin: 50px;
+}
+
+.message_place {
+	border: solid 1px black;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	border-radius: 10px;
+	height: 50vh;
+	overflow: scroll;
+}
+
+.input_form {
+	margin-top: 50px;
+	display: block;
+	float: right;
+}
+
+input {
+	padding: 10px;
+	width: 500px;
+	border-radius: 10px;
+}
+
+button {
+	padding: 10px;
+	width: 100px;
+	border-radius: 10px;
+	background-color: #7474ec;
+	color: white;
+}
+
+.friends_message_div {
+	float: left;
+	display: inline;
+	margin-left: 150px;
+}
+
+.our_message_div {
+	float: right;
+	display: inline;
+	margin-right: 150px;
+}
